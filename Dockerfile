@@ -1,5 +1,5 @@
-ARG GOVERSION=latest
-FROM golang:$GOVERSION AS builder
+#ARG GOVERSION=latest
+FROM golang:rc-alpine AS builder
 
 WORKDIR /src
 COPY . .
