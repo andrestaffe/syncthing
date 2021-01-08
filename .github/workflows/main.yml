@@ -2,7 +2,7 @@ name: syncthing-armv6
 
 on:
   push:
-    branches: master
+    branches: main
 
 jobs:
   build:
