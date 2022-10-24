@@ -46,12 +46,12 @@ require (
 	github.com/thejerf/suture/v4 v4.0.1
 	github.com/urfave/cli v1.22.5
 	github.com/vitrun/qart v0.0.0-20160531060029-bf64b92db6b0
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/net v0.0.0-20210716203947-853a461950ff
-	golang.org/x/sys v0.0.0-20210819135213-f52c844e1c1c
-	golang.org/x/text v0.3.6
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.4.0
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
-	golang.org/x/tools v0.1.5
+	golang.org/x/tools v0.1.12
 )
 
 go 1.14
